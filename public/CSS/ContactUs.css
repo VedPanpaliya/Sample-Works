@@ -1,0 +1,43 @@
+.address{
+    border: 2px solid;
+    margin: 0px 50px;
+    padding: 0px 20px;
+    font-size: 18px;
+    width: fit-content;
+    border-radius: 5px;
+    background-color: darkslateblue;
+    border-color: darkslateblue;
+    text-shadow: 2px 1px 2px black;
+}
+
+.donate{
+    border: 2px solid;
+    margin: 0px 50px;
+    padding: 0px 20px;
+    font-size: 18px;
+    width: fit-content;
+    border-radius: 5px;
+    background-color: darkslateblue;
+    border-color: darkslateblue;
+    text-shadow: 2px 1px 2px black;
+}
+
+.container{
+    display: flex;
+    /* border: 2px solid; */
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+}
+
+.content{
+    display: flex;
+    flex-flow: row wrap;
+    height: auto;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.content div{
+    margin-bottom: 40px;
+}

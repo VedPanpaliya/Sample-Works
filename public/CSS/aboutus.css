@@ -1,0 +1,19 @@
+.container1{
+    /* border: 2px solid; */
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: auto;
+    padding-bottom: 30px;
+}
+
+.aboutus{
+    margin: 0px 38px;
+    font-size: 20px;
+    text-shadow: 2px 1px 2px black;
+}
+
+.list{
+    margin: 4px 10px;
+    list-style-type: circle;
+}
